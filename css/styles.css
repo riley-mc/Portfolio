@@ -9,6 +9,7 @@
   border: 8px seagreen;
   padding: 4px;
   background-color: beige;
+
 }
 
 .intro {
@@ -25,12 +26,12 @@ img {
 }
 
 .rightside {
-    float: right;
-    border: 8px black;
-    padding: 8px;
-    margin: 15px;
-    background-color: coral;
-    width: 25%;
+  float: right;
+  border: 25px black;
+  padding: 8px;
+  margin: 15px;
+  background-color: coral;
+  width: 25%;
 }
 
 .day1 {
@@ -69,5 +70,13 @@ img {
 
 .flashy {
   font-style: italic;
-  
+  font-family: Arial, Helvetica, sans-serif;
+
 }
+
+.textbackground {
+  background-color: lightsteelblue;
+}
+
+
+
