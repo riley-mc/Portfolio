@@ -1,6 +1,7 @@
 .flashy {
-  text-align: right;
-  font-size: 65px;
+  text-align: center;
+  font-size: 96px;
+
   
   }
 
@@ -28,22 +29,35 @@ img {
 
 .day1 {
   background-color: rgb(60, 102, 60);
+  text-align: center;
+
+
 }
 
 .day2 {
-  background-color: rgb(60, 102, 60);
+  background-color: rgb(110, 192, 110);
+  text-align: center;
 
 
 }
 
 .day3 {
   background-color: royalblue;
+  text-align: center;
 
 
 }
 
 .day4 {
-  background-color: royalblue;
+  background-color: rgb(131, 134, 143);
+  text-align: center;
 
+
+}
+
+.intro {
+  text-align: center;
+  border: crimson;
+  font-size: 25px;
 
 }
