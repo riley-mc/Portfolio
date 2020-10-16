@@ -25,6 +25,8 @@ Probably a few. I'm sure its mostly messy code and certain commands that don't e
 
 Things I would want to fix is the top portion with my name and quick description of the page. 
 
+I also want to spend time on adjusting the fonts and sizing to look better with the page layout.
+
 
 ## Support and contact details
 
