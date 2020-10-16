@@ -39,6 +39,7 @@ img {
 .day1 {
   background-color: rgb(45, 90, 45);
   text-align: center;
+  border-radius: 12px;
 
 
 }
@@ -46,6 +47,7 @@ img {
 .day2 {
   background-color: rgb(110, 192, 110);
   text-align: center;
+  border-radius: 12px;
 
 
 }
@@ -53,6 +55,7 @@ img {
 .day3 {
   background-color: royalblue;
   text-align: center;
+  border-radius: 12px;
 
 
 }
@@ -60,6 +63,7 @@ img {
 .day4 {
   background-color: rgb(131, 134, 143);
   text-align: center;
+  border-radius: 12px;
 
 
 }
