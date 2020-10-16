@@ -1,7 +1,6 @@
-.flashy {
+.catch {
   text-align: center;
   font-size: 96px;
-
   
   }
 
@@ -10,6 +9,13 @@
   border: 8px seagreen;
   padding: 4px;
   background-color: beige;
+}
+
+.intro {
+  text-align: center;
+  border: crimson;
+  font-size: 25px;
+
 }
 
 img {
@@ -28,7 +34,7 @@ img {
 }
 
 .day1 {
-  background-color: rgb(60, 102, 60);
+  background-color: rgb(45, 90, 45);
   text-align: center;
 
 
@@ -55,9 +61,13 @@ img {
 
 }
 
-.intro {
-  text-align: center;
-  border: crimson;
-  font-size: 25px;
 
+.bg1 {
+  background-color: rgb(107, 156, 107;
+
+}
+
+.flashy {
+  font-style: italic;
+  
 }
