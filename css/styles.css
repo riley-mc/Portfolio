@@ -4,21 +4,22 @@
   color: blueviolet;
   font-family: 'Times New Roman', Times, serif;
 
+
 }
 
 
 .nametitle {
   border: 8px seagreen;
   padding: 4px;
-  background-color: beige;
   border-radius: 12px;
 
 }
 
 .intro {
-  text-align: center;
+  text-align: inherit;
   border: crimson;
   font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
 
 }
 
