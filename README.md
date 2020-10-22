@@ -10,17 +10,15 @@ This website will be my online presence for updating my code portfolio while enr
 
 ## Setup/Installation Requirements
 
-*  First open up your terminal and enter the following commands to navigate to the portfolio directory. Ensure you are in the Desktop.
+*  First open up your terminal and enter the following commands to navigate to the portfolio directory. 
+    * cd desktop (ensure you start on the desktop to navigate in the terminal)
     * cd portfolio
-    * cd 
 
-
-
-*  Turn on computer and open your preferred internet browser
+*  Next, clone the remote repository and create a local copy on your machine using this command:
+    * git clone https://github.com/riley-mc/Portfolio
 
 *  Type in the link to my portfolio or click here (https://riley-mc.github.io/Portfolio/).
 
-*  
 
 
 ## Known Bugs
