@@ -10,13 +10,17 @@ This website will be my online presence for updating my code portfolio while enr
 
 ## Setup/Installation Requirements
 
-*  Look yourself in the mirror and say "You're Amazing!"
+*  First open up your terminal and enter the following commands to navigate to the portfolio directory. Ensure you are in the Desktop.
+    * cd portfolio
+    * cd 
+
+
 
 *  Turn on computer and open your preferred internet browser
 
 *  Type in the link to my portfolio or click here (https://riley-mc.github.io/Portfolio/).
 
-*  Enjoy! I'm open to any suggestions or help you have to give.
+*  
 
 
 ## Known Bugs
@@ -41,3 +45,9 @@ For this website I used GitBash for terminal commands, VSCode for the html, css 
 ### License
 
 Copyright (c) 2020 **RILEY MCADOO**
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
